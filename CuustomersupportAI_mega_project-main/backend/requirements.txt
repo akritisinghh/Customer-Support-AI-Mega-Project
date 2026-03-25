@@ -1,0 +1,37 @@
+# FastAPI & server
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+
+# Database — Supabase (PostgreSQL)
+supabase
+
+# Cache & queues
+redis
+
+# AI / LLM — Groq
+groq
+
+# Communications
+twilio
+
+# HTTP client (async)
+httpx
+
+# File uploads
+python-multipart
+
+# Auth — JWT & password hashing
+PyJWT
+passlib[bcrypt]
+
+# Observability
+structlog
+
+# Resilience
+tenacity
+
+# Testing
+pytest
+pytest-asyncio
